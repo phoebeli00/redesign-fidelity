@@ -1,0 +1,6 @@
+{
+  "name": "Fidelity Portfolio Prototype",
+  "description": "High-fidelity interactive prototype for redesigned Fidelity Accounts performance and investment cash flow breakdown.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
